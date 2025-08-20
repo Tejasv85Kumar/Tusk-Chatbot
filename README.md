@@ -16,7 +16,7 @@ Tusk A.I is a Python-based voice-controlled personal assistant that listens to u
 
  Exit Anytime – Quit the assistant with a single command.
 
-🛠 Tech Stack
+-> Tech Stack
 
 Language: Python
 
@@ -31,7 +31,7 @@ os – to handle local file execution
 datetime – to provide system time
 
 
-⚡ Installation & Setup
+-> Installation & Setup
 
  Install dependencies:
 
